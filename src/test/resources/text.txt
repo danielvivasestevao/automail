@@ -1,0 +1,7 @@
+Hello,
+
+this is an example mail text.
+I hope you enjoy working with automail!
+
+Greetings
+The Author
